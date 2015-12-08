@@ -1,0 +1,12 @@
+display_list
+display_tree
+add:100,50,122,40,30,80,322,223,323,121
+display_list
+display_tree
+add:64
+remove:322
+display_list
+display_tree
+remove:100
+display_list
+display_tree
